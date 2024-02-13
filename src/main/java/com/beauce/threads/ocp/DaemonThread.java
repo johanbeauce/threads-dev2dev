@@ -1,3 +1,5 @@
+package com.beauce.threads.ocp;
+
 public class DaemonThread {
 
     public static void main(String[] args) {

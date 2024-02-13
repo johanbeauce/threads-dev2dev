@@ -1,3 +1,5 @@
+package com.beauce.threads.ocp;
+
 public class ClassicThread {
     public static void main(String[] args) {
         Thread thread = new Thread(new Runnable() {

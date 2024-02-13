@@ -1,3 +1,5 @@
+package com.beauce.threads.ocp;
+
 public class UnknownUntilRuntime {
 
     private static Runnable printInventory = () ->
