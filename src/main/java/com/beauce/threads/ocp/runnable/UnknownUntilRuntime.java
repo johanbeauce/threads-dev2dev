@@ -1,4 +1,4 @@
-package com.beauce.threads.ocp;
+package com.beauce.threads.ocp.runnable;
 
 public class UnknownUntilRuntime {
 

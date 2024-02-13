@@ -1,4 +1,4 @@
-package com.beauce.threads.ocp;
+package com.beauce.threads.ocp.executorservice;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
